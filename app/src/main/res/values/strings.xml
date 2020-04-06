@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kotlin_Task_2</string>
+    <string name="dangoteId">Dangote Sugar</string>
+    <string name="dangotePrice">N 3000</string>
+    <string name="dangoteDesc">
+    <br>        Description\n</br>
+        <br>- Dangote Vitamin A fortified sugar is a fine white granulated sugar, refined to the highest quality and dissolves easily\n</br>
+    </string>
+
+</resources>
