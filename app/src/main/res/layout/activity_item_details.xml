@@ -42,7 +42,7 @@
             android:layout_width="280dp"
             android:layout_height="wrap_content"
             android:text="@string/dangoteDesc"
-            android:textColor="@android:color/black"
+            android:textColor="@android:color/darker_gray"
             android:textSize="20sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
